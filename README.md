@@ -17,4 +17,7 @@ Estudio integral desarrollado para analizar y optimizar los cuellos de botella e
 * **Optimización de Tiempos:** La remoción estratégica de *outliers* y la imputación lógica de valores nulos permitieron calcular con total precisión la evolución de los tiempos de entrega sin distorsionar los promedios reales.
 * **Impacto:** Se generó un tablero de control automatizado que conecta los scripts de limpieza con Power BI, sirviendo como base estratégica para la toma de decisiones directivas sobre asignación de repartidores y retención de clientes.
 
+## 📂 Archivos en este repositorio
 
+* `Pipeline_Limpieza_Datos_Rappi.ipynb` : Documentación completa del script de automatización, limpieza profunda y tratamiento de nulos con Python.
+* `rappiplus_orders_raw.xlsx` : Muestra del dataset crudo original utilizado para la ingesta de datos.
