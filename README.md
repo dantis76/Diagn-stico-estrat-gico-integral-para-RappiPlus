@@ -17,8 +17,4 @@ Estudio integral desarrollado para analizar y optimizar los cuellos de botella e
 * **Optimización de Tiempos:** La remoción estratégica de *outliers* y la imputación lógica de valores nulos permitieron calcular con total precisión la evolución de los tiempos de entrega sin distorsionar los promedios reales.
 * **Impacto:** Se generó un tablero de control automatizado que conecta los scripts de limpieza con Power BI, sirviendo como base estratégica para la toma de decisiones directivas sobre asignación de repartidores y retención de clientes.
 
-## 📂 Archivos en este repositorio
 
-* `📂 scripts_etl/` : Código documentado en Python utilizado para la limpieza, tratamiento de nulos y normalización de datos.
-* `📂 dashboard/` : Archivo original `.pbix` con el modelo de datos en estrella y paneles interactivos listos para producción.
-* `📂 data_raw/` : Muestra del dataset original con las inconsistencias métricas y geográficas previas al procesamiento.
